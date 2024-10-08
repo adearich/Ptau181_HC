@@ -1,0 +1,1 @@
+This repository contains the raw and processed data needed to reproduce the manuscript with the working title "Plasma p-tau181 associates with distinct hippocampal subfields across the Alzheimer’s disease continuum" by Adea Rich and Hwamee Oh.
